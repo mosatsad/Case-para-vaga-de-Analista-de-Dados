@@ -7,6 +7,6 @@ A área de crédito definiu as seguintes regras:
 * O atraso médio precisa ser menor que 10 dias e o atraso máximo histórico menor que 40 dias;
 * Precisa estar com CPF regular na Receita Federal;
 
-Enviar a base dos clientes dentro das condições e o valor de credito de cada um.
+1) Enviar a base dos clientes dentro das condições e o valor de credito de cada um.
 
-Por fim, informar qual o valor que a empresa precisa disponibilizar para os emprestimos.
+2) Por fim, informar qual o montante a empresa precisa disponibilizar para os empréstimos.
