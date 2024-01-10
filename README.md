@@ -1,4 +1,4 @@
-# Desafio para uma vaga de Analista de Dados.
+# Desafio para vaga de Analista de Dados.
 Você é uma analista de dados, e precisa analisar dados de uma base de um parceiro para que a empresa libere, no cadastro do cliente, um limite pré-aprovado.
 
 A área de crédito definiu as seguintes regras:
